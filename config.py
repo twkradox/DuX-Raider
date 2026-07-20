@@ -38,5 +38,5 @@ NO_BAN_KICK_ID = {
 
 BOT_PRESENCE = {
     "type": "playing",  # "playing", "listening", or "watching"
-    "text": "Nebula"  # Your text presence
+    "text": "DuX On ToP"  # Your text presence
 }
