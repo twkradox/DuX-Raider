@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🤖 DuX Raider V0.1 (beta)
-) 💻 
+ 💻 0.1
 </div>
 
 ## <a id="Tables-Of-Contents"></a>🔱 » Table Of Contents
