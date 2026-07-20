@@ -50,7 +50,7 @@ def update_application(repo_owner, repo_name, current_version):
 
 repo_owner = 'twkradox'
 repo_name = 'DuX-Raider'
-current_version = 'v1.3.2'
+current_version = 'v1.0.0'
 
 update_application(repo_owner, repo_name, current_version)
 
