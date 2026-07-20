@@ -12,7 +12,7 @@ import requests
 from discord import Game
 from discord import Activity, ActivityType
 
-GITHUB_TOKEN = "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" 
+GITHUB_TOKEN = "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" 
 
 def get_latest_release_version(repo_owner, repo_name):
     url = f'https://api.github.com/repos/{repo_owner}/{repo_name}/releases/latest'
