@@ -48,9 +48,9 @@ def update_application(repo_owner, repo_name, current_version):
         pass
         
 
-repo_owner = 'Nyxoy201'
-repo_name = 'nebula'
-current_version = 'v1.3.2'
+repo_owner = 'twkradox'
+repo_name = 'DuX-Raider'
+current_version = 'v0.1'
 
 update_application(repo_owner, repo_name, current_version)
 
@@ -663,17 +663,17 @@ async def on_ready():
 
     while True:
         os.system('cls' if os.name == 'nt' else 'clear')
-        choice = input((Colorate.Color(Colors.blue, """
+        choice = input((Colorate.Color(Colors.blue, """)
 
-                               /**
-                                *    ██████╗ ██╗   ██╗██╗  ██╗
-                                *    ██╔══██╗██║   ██║╚██╗██╔╝
-                                *    ██║  ██║██║   ██║ ╚███╔╝ 
-                                *    ██║  ██║██║   ██║ ██╔██╗ 
-                                *    ██████╔╝╚██████╔╝██╔╝ ██╗
-                                *    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-                                *                             
-                                */
+                               
+                                         ██████╗ ██╗   ██╗██╗  ██╗
+                                         ██╔══██╗██║   ██║╚██╗██╔╝
+                                         ██║  ██║██║   ██║ ╚███╔╝ 
+                                         ██║  ██║██║   ██║ ██╔██╗ 
+                                         ██████╔╝╚██████╔╝██╔╝ ██╗
+                                         ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+                                                             
+                                
                                                                               V0.1    remake by kradox                                                                           
                                        
     ╔═══════════════════════════════╦═══════════════════════════════╦═══════════════════════════════╗                                       
